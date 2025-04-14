@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>فرقه 47</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            font-size: 50px;
+        }
+        p {
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        .code {
+            font-size: 25px;
+            color: #ffcc00;
+        }
+        .link {
+            font-size: 20px;
+            color: #00ffcc;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>خوش آمدید به فرقه 47</h1>
+    <p>شما به تازگی وارد یکی از محرمانه‌ترین گروه‌های جهان شدید. مراقب باشید، زیرا هر گام شما تحت نظارت است.</p>
+    <p>اطلاعات جدید:</p>
+    <p class="code">ساعت 22:00 یک تماس مهم خواهید داشت.</p>
+    <p>کد ورود جدید:</p>
+    <p class="code">9372-XP-0106</p>
+    <p>برای مشاهده فایل‌های بیشتر، وارد لینک زیر شوید.</p>
+    <a href="https://example.com/mystery" class="link">ادامه بررسی</a>
+    <p>فقط به انتخاب شماست که این ماموریت رو ادامه بدید.</p>
+</body>
+</html>
